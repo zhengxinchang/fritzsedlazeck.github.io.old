@@ -15,3 +15,5 @@ For more details, read the [documentation](http://jekyllrb.com/)
 5. execute `python parse_google_scholar.py tmp/_Fritz\ J\ Sedlazeck_\ -\ _Google\ Scholar_.html` (the html file that was saved at step 3).
 6. check the _include directory. If the timestamp of publications.html is now, the update is succeed.
  
+
+#  **********
